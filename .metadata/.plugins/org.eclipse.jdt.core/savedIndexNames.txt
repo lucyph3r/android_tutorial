@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Lucifero\Documents\GitHub\android_tutorial\.metadata\.plugins\org.eclipse.jdt.core
+3783868369.index
+1113736500.index
+1650572799.index

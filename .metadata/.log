@@ -1,0 +1,13 @@
+!SESSION 2013-05-13 23:01:42.423 -----------------------------------------------
+eclipse.buildId=v21.0.1-543035
+java.version=1.6.0_38
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2013-05-13 23:02:25.227
+!MESSAGE DDMS files not found: E:\dev\adt-bundle-windows-x86_64\eclipse\platform-tools\adb.exe E:\dev\adt-bundle-windows-x86_64\eclipse\tools\hprof-conv.exe E:\dev\adt-bundle-windows-x86_64\eclipse\tools\traceview.bat 
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-05-13 23:07:13.592
+!MESSAGE Failed to load properties file for project 'CiaoMondo'
